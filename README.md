@@ -3,7 +3,7 @@ Home Assistant component for LG Smart TV (2013 edition)
 
 ## Install LG Smart TV component
 Install this component by downloading the lgsmarttv.py file from this repo.
-Place it here ```<config directory>/custom_components/media_player/lgsmarttv.py``` on your Home Assistant instance.
+Place it here ```<config directory>/custom_components/lgsmarttv/{THE 2 DOWNLOADED .py FILES}``` on your Home Assistant instance.
   
 ## Configure your TV
 Smart TV must be reachable by Home Assistant server then they should be connected on the same network.
